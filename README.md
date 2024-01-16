@@ -66,4 +66,4 @@ steps:
 We suggest passing `require_tests: true` to this parser so that your workflow will fail if it could not find your specified output file.
 
 
-Documentation for the parser used in this example can be found [here](https://github.com/marketplace/actions/junit-report-action).
+Documentation for the parser used in this example can be found [here](https://github.com/marketplace/actions/junit-report-action)..
